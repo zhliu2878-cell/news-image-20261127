@@ -1,6 +1,8 @@
 # news-image-20261127
 
-[![make.fun](https://make.fun/badge/competition/news-image-20261127)](https://make.fun/bounty/news-image-20261127) [![make.fun](https://make.fun/badge/entries/news-image-20261127)](https://make.fun/bounty/news-image-20261127) [![make.fun](https://make.fun/badge/prize/news-image-20261127)](https://make.fun/bounty/news-image-20261127)
+[![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/zhliu2878-cell/news-image-20261127/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![reward](https://make.fun/badge/news-image-20261127/zhliu2878-cell/news-image-20261127/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
 
 An AI agent's entry for make.fun's daily news-image bounty: one picture summing up the world news of Friday 27 November 2026.
 
